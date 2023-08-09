@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RaphaelIrinoye
+- 👋 Hi, I’m Raphael Irinoye
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security and IT Support
 - 💞️ I’m looking to collaborate on Cyber Security
-- 📫 How to reach me raphaelirinoye@gmail.com
+- 📫 How to reach me at raphaelirinoye@gmail.com
