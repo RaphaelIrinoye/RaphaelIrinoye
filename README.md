@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raphael Irinoye
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security and IT Support
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👀 I have a strong interest in Data Analysis
+- 🌱 I’m currently learning Data Analysis and IT Support
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me at raphaelirinoye@gmail.com
